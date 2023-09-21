@@ -13,6 +13,6 @@
 
 ### Stats 📊
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HGiribola&layout=compact&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HGiribola&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HGiribola&layout=compact&theme=dark&card_width=400&border_radius=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HGiribola&show_icons=true&theme=dark&card_width=400&border_radius=12"/>
 </div>
