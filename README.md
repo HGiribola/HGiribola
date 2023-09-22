@@ -1,12 +1,5 @@
 ## Hi! I'm **_Henrique Giribola_** 🖐️
 
-### Contributions in Last Year:
-
-<div display="flex">
-
-  ![Papa Commits](https://github.com/HGiribola/HGiribola/edit/output/github-contribution-grid-snake.svg))
-</div>
-
 ### Links 🌐
 
 <div align="center">
