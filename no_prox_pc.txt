@@ -7,8 +7,8 @@ dbeaver
 discord
 git bash git
 idle python
-intellij
 league of legends
+logisim
 minecraft
 obs studio
 pgadmin 4
