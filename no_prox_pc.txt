@@ -1,27 +1,37 @@
-anydesk
+android studio
+balena etcher
+bit torrent
 blitz gg
+brave
 brmodelo
 chrome
 cpu-z cpuid
 dbeaver
 discord
-git bash git
+epic games launcher
+git bash
 idle python
-league of legends
 logisim
-minecraft
+microsoft visual studio
+netbeans
 obs studio
 pgadmin 4
+php storm
 pycharm
-rocket league
+riot
+software perfiféricos
 sql shell psql
 steam
 streamlabs desktop
 spotify
+teamviwer
+tlauncher
 tik tok live studio
-valorant
+ubisoft
+unity
 visual studio code
 wallpaper engine
 whatsapp
 winrar
+xbox
 zoom
