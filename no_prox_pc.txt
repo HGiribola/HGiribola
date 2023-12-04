@@ -2,34 +2,82 @@ android studio
 balena etcher
 bit torrent
 blitz gg
-brave
+brave {
+  agenda google
+  amazon web services
+  bard
+  chat gpt
+  cisco skills for all
+  crunchyroll
+  dev to
+  github
+  hostgator
+  instagram
+  linkedin
+  miro
+  planilhas google
+  sites google
+  tiktok
+  trello
+  twitch tv
+  udemy
+  ulife
+  youtube
+  x
+  zoom
+}
 brmodelo
 chrome
 cpu-z cpuid
 dbeaver
 discord
-epic games launcher
-git bash
+epic games launcher {
+  fortnite
+}
+fortrek m3 pro
+git bash {
+  git clone
+}
 idle python
 logisim
 microsoft visual studio
 netbeans
-obs studio
-pgadmin 4
+netflix
+obs studio {
+  canon eos utility
+  streamlabs desktop
+}
+pgadmin 4 {
+  pro tracker
+}
 php storm
 pycharm
-riot
-software perfiféricos
+riot {
+  league of legends
+  valorant
+}
 sql shell psql
-steam
-streamlabs desktop
+steam {
+  assasin's creed
+  rocket league
+}
 spotify
 teamviwer
 tlauncher
 tik tok live studio
 ubisoft
 unity
-visual studio code
+visual studio code {
+  code runner
+  github copilot
+  github copilot chat
+  github theme
+  gitlens
+  live preview
+  live server
+  material icon theme
+  prettier
+}
 wallpaper engine
 whatsapp
 winrar
