@@ -28,6 +28,7 @@ brave {
 }
 brmodelo
 chrome
+cisco packet tracer
 cpu-z cpuid
 dbeaver
 discord
