@@ -82,5 +82,6 @@ visual studio code {
 wallpaper engine
 whatsapp
 winrar
+wondershare Edraw Max
 xbox
 zoom
