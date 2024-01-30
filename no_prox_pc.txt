@@ -44,6 +44,7 @@ logisim
 microsoft visual studio
 netbeans
 netflix
+notion
 obs studio {
   canon eos utility
   streamlabs desktop
